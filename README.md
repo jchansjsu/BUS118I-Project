@@ -1,4 +1,4 @@
-# BUS118I-Project
+# Jacky Chan // BUS118I-Project 
 Introducing Project Pink Aid Team – a compassionate initiative dedicated to supporting homeless veterans and anyone facing daily life challenges. Our innovative website serves as a guide of hope, offering real-time assistance and vital resources to those in need.
 
 Experience the power of information with our cutting-edge features:
